@@ -7,7 +7,7 @@ First android app for CodePath
 My first simplistic app that outputs text and changes background and text color.
 
 ### App Walk-though
-<img src="https://i.imgur.com/9rpahY5.gif" width=200><br>
+<img src="https://i.imgur.com/cAz2Eup.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
